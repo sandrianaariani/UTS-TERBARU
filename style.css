@@ -1,0 +1,34 @@
+body {
+    font-family: 'times new roman ', Times, serif, sans-serif;
+    margin: 20px;
+    background-color: #e0b3cc;
+    color: #333;
+}
+header {
+    background-color: #ef9dd8;
+    color: white;
+    padding: 10px;
+    text-align: center;
+}
+main {
+    background-color: #cfb9cd;
+    padding: 20px;
+    border-radius: 10px;
+}
+img {
+    display: block;
+    margin: 0 auto 20px;
+    border-radius: 50%;
+}
+button {
+    margin-top: 20px;
+    padding: 10px 15px;
+    background-color: #df0e50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+button:hover {
+    background-color: #f707bb;
+}
